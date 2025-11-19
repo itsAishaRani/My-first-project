@@ -1,0 +1,21 @@
+/* reset all */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+h1 {
+  line-height: 1.1;
+}
+ul li {
+  list-style: none;
+}
+
+a {
+  color: hsl(0, 0%, 100%);
+  text-decoration: none;
+}
+body {
+  background-color: hsl(0, 0%, 8%);
+  color: hsl(0, 0%, 100%);
+}
